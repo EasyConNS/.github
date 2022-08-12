@@ -1,5 +1,5 @@
-## Hi there 👋, EasyCon Organization
-
+## Hi there 👋, EasyCon is Nintendo Switch Simulate Controllor which need a pc software and a MCU to work.
+Now support Avr and STM32 MCU and EasyConAPI for a new MCU migration
 <!--
 
 **Here are some ideas to get you started:**
