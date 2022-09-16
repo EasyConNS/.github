@@ -1,5 +1,5 @@
 ## Hi there 👋, EasyCon is Nintendo Switch Simulate Controller which need a PC software and a MCU to work.
-Now support Avr,STM32,ESP32 MCU and EasyConAPI for a new MCU migration
+Now support Avr,STM32,ESP32 MCU and EasyConAPI for a new MCU migration.
 QQ Group:946057081
 <!--
 
