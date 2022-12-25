@@ -13,6 +13,7 @@ It's eays to migrate EasyConAPI to a new hardware. Amiibo can only work in ESP32
 - AVR（UNO、Teensy、Teensy plus）
 - STM32（F1、F4）
 - ESP32（all ESP32 dev board）
+- CH32（F1，dual usb）
 
 ## Community
 QQ Group:946057081
