@@ -17,4 +17,5 @@ It's eays to migrate EasyConAPI to a new hardware. Amiibo can only work in ESP32
 
 ## Community
 QQ Group:946057081
+
 Discord:https://discord.gg/gMNmXP6wnV
