@@ -13,7 +13,8 @@ It's eays to migrate EasyConAPI to a new hardware. Amiibo can only work on ESP32
 - STM32（F103、F4xx）
 - CH32F103（dual usb）
 - ESP32 WROOM(via Bluetooth classic)
-- ESP32 C3/S3(vid USB HID) TODO
+- ESP32 S3(via USB HID)
+- ESP32 C3/S3/C61(via BLE5) TODO
 - RP2040（Raspberry Pi Pico）TODO
 
 ## Community
