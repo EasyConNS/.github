@@ -1,25 +1,56 @@
-# EasyCon: The Ultimate Automation Powerhouse for Nintendo Switch 🎮
+# 🎮 EasyCon: The Ultimate Nintendo Switch Automation Powerhouse
 
-EasyCon is a sophisticated controller simulation platform that bridges your PC/Android device with an MCU to automate Switch gameplay. Featuring a custom-designed, easy-to-learn scripting language, it supports Online, Burn, and Firmware modes to provide seamless and high-efficiency automation. Whether you are shiny hunting, egg hatching, or farming resources, EasyCon makes it effortless. 🚀⚡️
+<p align="center">
+  <img src="https://img.shields.io/badge/Platform-Windows%20%7C%20Android%20%7C%20Linux-blue?style=for-the-badge" alt="Platform">
+  <img src="https://img.shields.io/badge/Hardware-MCU%20Bridge-orange?style=for-the-badge" alt="Hardware">
+  <img src="https://img.shields.io/badge/License-GPL--3.0-green?style=for-the-badge" alt="License">
+</p>
 
-## Features
-- Simulate JoyCon/Pro Controller
-- Simulate any Amiibo and could save 10 persistently 
-- Script run in hardware
-- Script run through PC or Andriod
-- Search image with a Capture Device
+**EasyCon (伊机控)** is a high-performance controller simulation platform that bridges your PC/Android device with an MCU to automate Nintendo Switch gameplay with precision and ease.
 
-## MCU
-It's eays to migrate EasyConAPI to a new hardware. Amiibo can only work on ESP32
-- ATMEL AVR8（Arduino UNO、Arduino Leonardo、Pro Micro、Teensy、Teensy++）
-- STM32（F103、F4xx）
-- CH32F103（dual usb）
-- ESP32 WROOM(via Bluetooth classic)
-- ESP32 S3(via USB HID)
-- ESP32 C3/S3/C61(via BLE5) TODO
-- RP2040（Raspberry Pi Pico）TODO
+> **Make your Switch smarter.** Whether you are shiny hunting, egg hatching, or farming resources, EasyCon handles the grind so you don't have to. 🚀⚡️
 
-## Community
-QQ Group:946057081
+---
 
-Discord:https://discord.gg/gMNmXP6wnV
+### ✨ Key Features
+
+* **🎮 Full Emulation** | Complete simulation of Joy-Con and Pro Controllers.
+* **👾 Amiibo Master** | Simulate any Amiibo; store up to **10 tags** persistently on-device.
+* **⚡ Zero Latency** | Script execution happens at the hardware level for maximum precision.
+* **📱 Cross-Platform** | Control your setup via a sleek PC interface or on-the-go with Android.
+* **🔍 Computer Vision** | Supports capture card integration for intelligent image-based automation.
+
+---
+
+### 🧩 Hardware Ecosystem (MCU Support)
+
+The **EasyCon API** is highly portable. Use the badges below to check the support status for your hardware:
+
+| Platform | Chipset / Board | Status |
+| :--- | :--- | :--- |
+| **Atmel** | AVR8 (UNO, Leonardo, Pro Micro, Teensy) | ✅ Stable |
+| **ST** | STM32 (F103, F4xx series) | ✅ Stable |
+| **WCH** | CH32F103 (Dual USB support) | ✅ Stable |
+| **Espressif** | ESP32 WROOM (Bluetooth Classic) | ✅ Stable |
+| **Espressif** | ESP32-S3 (USB HID) | ✅ Stable |
+| **Raspberry Pi** | RP2040 (Pico) | 🚧 In Dev |
+| **BLE 5.0** | ESP32-C3 / S3 / C61 | 📅 Roadmap |
+
+> 💡 **Note:** Amiibo simulation currently requires **ESP32** series hardware.
+
+---
+
+### 🤝 Join the Community
+
+Connect with thousands of developers and players to share scripts and get support.
+
+| Channel | Link |
+| :--- | :--- |
+| **Discord** | [Join our Global Server](https://discord.gg/gMNmXP6wnV) |
+| **QQ Group** | `946057081` (Main Community) |
+| **Documentation** | [Wiki & Scripting Guide](https://docs.qq.com/sheet/DZm1ydlZadkpncUNo?c=A88A0AZ0) |
+
+---
+<p align="center">
+  Built with ❤️ by the <b>EasyConNS</b> Team.
+</p>
