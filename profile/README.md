@@ -1,4 +1,6 @@
-## Hi there 👋, EasyCon is Nintendo Switch Simulate Controller which need a PC/Andriod and a MCU to work.
+# EasyCon: The Ultimate Automation Powerhouse for Nintendo Switch 🎮
+
+EasyCon is a sophisticated controller simulation platform that bridges your PC/Android device with an MCU to automate Switch gameplay. Featuring a custom-designed, easy-to-learn scripting language, it supports Online, Burn, and Firmware modes to provide seamless and high-efficiency automation. Whether you are shiny hunting, egg hatching, or farming resources, EasyCon makes it effortless. 🚀⚡️
 
 ## Features
 - Simulate JoyCon/Pro Controller
