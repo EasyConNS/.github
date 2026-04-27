@@ -1,7 +1,7 @@
 # 🎮 EasyCon: The Ultimate Nintendo Switch Automation Powerhouse
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Platform-Windows%20%7C%20Android%20%7C%20Linux-blue?style=for-the-badge" alt="Platform">
+  <img src="https://img.shields.io/badge/Platform-Windows%20%7C%20MacOS%20%7C%20Linux%20%7C%20Android-blue?style=for-the-badge" alt="Platform">
   <img src="https://img.shields.io/badge/Hardware-MCU%20Bridge-orange?style=for-the-badge" alt="Hardware">
   <img src="https://img.shields.io/badge/License-GPL--3.0-green?style=for-the-badge" alt="License">
 </p>
